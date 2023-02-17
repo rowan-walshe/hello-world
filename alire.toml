@@ -1,0 +1,9 @@
+name = "hello_world"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Rowan Walshe"]
+maintainers = ["Rowan Walshe <walshe@adacore.com>"]
+maintainers-logins = ["rowan-walshe"]
+
+executables = ["hello_world"]
